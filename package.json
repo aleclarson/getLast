@@ -1,0 +1,6 @@
+{
+  "name": "getLast",
+  "description": "Get the last item in an array",
+  "version": "1.0.0",
+  "main": "getLast.js"
+}
