@@ -1,6 +1,8 @@
 
 function getLast(array) {
-  return array[array.length - 1];
+  var len = array.length;
+  if (len === 0) return;
+  return array[len - 1];
 }
 
 module.exports = getLast;
